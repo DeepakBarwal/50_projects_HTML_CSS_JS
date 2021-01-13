@@ -17,3 +17,5 @@
 8. Form Wave -> [Live Demo](https://determined-euler-c39e75.netlify.app/)
 
 9. Sound Board -> [Live Demo](https://determined-swirles-4ddbc2.netlify.app/)
+
+10. Dad Jokes -> [Live Demo](https://cranky-jang-501c6c.netlify.app/)
