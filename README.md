@@ -21,3 +21,5 @@
 10. Dad Jokes -> [Live Demo](https://cranky-jang-501c6c.netlify.app/)
 
 11. Event Keycodes -> [Live Demo](https://modest-mirzakhani-68eb91.netlify.app/)
+
+12. FAQ Collapse -> [Live Demo](https://determined-brahmagupta-b4d452.netlify.app/)
