@@ -23,3 +23,5 @@
 11. Event Keycodes -> [Live Demo](https://modest-mirzakhani-68eb91.netlify.app/)
 
 12. FAQ Collapse -> [Live Demo](https://determined-brahmagupta-b4d452.netlify.app/)
+
+13. Random Choice Picker -> [Live Demo](https://elegant-lamport-53414d.netlify.app/)
