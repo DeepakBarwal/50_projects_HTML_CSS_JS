@@ -33,3 +33,5 @@
 16. Drink Water -> [Live Demo](https://mystifying-edison-985867.netlify.app/)
 
 17. Movie App -> [Live Demo](https://epic-mcnulty-5b5950.netlify.app/)
+
+18. Background Slider -> [Live Demo](https://loving-pare-d029e9.netlify.app/)
