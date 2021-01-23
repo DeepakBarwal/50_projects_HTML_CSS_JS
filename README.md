@@ -37,3 +37,5 @@
 18. Background Slider -> [Live Demo](https://loving-pare-d029e9.netlify.app/)
 
 19. Theme Clock -> [Live Demo](https://heuristic-golick-9ac277.netlify.app/)
+
+20. Button Ripple Effect -> [Live Demo](https://agitated-banach-2dbfcb.netlify.app/)
