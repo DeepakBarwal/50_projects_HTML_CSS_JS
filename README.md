@@ -43,3 +43,7 @@
 21. Drag N Drop -> [Live Demo](https://condescending-kilby-431c4f.netlify.app/)
 
 22. Drawing App -> [Live Demo](https://nostalgic-nobel-503f3b.netlify.app/)
+
+23. Kinetic CSS Loader -> [Live Demo](https://optimistic-joliot-f9a620.netlify.app/)
+
+24. Content Placeholder -> [Live Demo](https://vibrant-kowalevski-12474c.netlify.app/)
