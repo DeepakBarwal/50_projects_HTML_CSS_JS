@@ -47,3 +47,5 @@
 23. Kinetic CSS Loader -> [Live Demo](https://optimistic-joliot-f9a620.netlify.app/)
 
 24. Content Placeholder -> [Live Demo](https://vibrant-kowalevski-12474c.netlify.app/)
+
+25. Sticky Navigation -> [Live Demo](https://focused-northcutt-73bd95.netlify.app/)
