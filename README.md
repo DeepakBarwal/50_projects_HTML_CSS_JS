@@ -49,3 +49,5 @@
 24. Content Placeholder -> [Live Demo](https://vibrant-kowalevski-12474c.netlify.app/)
 
 25. Sticky Navigation -> [Live Demo](https://focused-northcutt-73bd95.netlify.app/)
+
+26. Double Vertical Slider -> [Live Demo](https://silly-panini-521fdf.netlify.app/)
