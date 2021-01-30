@@ -51,3 +51,5 @@
 25. Sticky Navigation -> [Live Demo](https://focused-northcutt-73bd95.netlify.app/)
 
 26. Double Vertical Slider -> [Live Demo](https://silly-panini-521fdf.netlify.app/)
+
+27. Toast Notification -> [Live Demo](https://boring-darwin-713554.netlify.app/)
