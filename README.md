@@ -53,3 +53,5 @@
 26. Double Vertical Slider -> [Live Demo](https://silly-panini-521fdf.netlify.app/)
 
 27. Toast Notification -> [Live Demo](https://boring-darwin-713554.netlify.app/)
+
+28. Github Profiles -> [Live Demo](https://vibrant-lamport-988b77.netlify.app/)
