@@ -55,3 +55,5 @@
 27. Toast Notification -> [Live Demo](https://boring-darwin-713554.netlify.app/)
 
 28. Github Profiles -> [Live Demo](https://vibrant-lamport-988b77.netlify.app/)
+
+29. Double Click Heart -> [Live Demo](https://dreamy-colden-103cd6.netlify.app/)
