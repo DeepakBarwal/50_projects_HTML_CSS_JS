@@ -57,3 +57,5 @@
 28. Github Profiles -> [Live Demo](https://vibrant-lamport-988b77.netlify.app/)
 
 29. Double Click Heart -> [Live Demo](https://dreamy-colden-103cd6.netlify.app/)
+
+30. Auto Text Effect -> [Live Demo](https://angry-austin-479f01.netlify.app/)
