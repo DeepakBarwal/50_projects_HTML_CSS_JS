@@ -61,3 +61,5 @@
 30. Auto Text Effect -> [Live Demo](https://angry-austin-479f01.netlify.app/)
 
 31. Password Generator -> [Live Demo](https://frosty-bardeen-2b6ea0.netlify.app/)
+
+32. Good Cheap Fast -> [Live Demo](https://vigorous-jepsen-734d87.netlify.app/)
