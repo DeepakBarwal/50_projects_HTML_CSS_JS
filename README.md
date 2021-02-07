@@ -67,3 +67,5 @@
 33. Notes App -> [Live Demo](https://hungry-wing-fba443.netlify.app/)
 
 34. Animation Countdown -> [Live Demo](https://kind-panini-6d8a9e.netlify.app/)
+
+35. Image Carousel -> [Live Demo](https://cranky-turing-c1e9bd.netlify.app/)
