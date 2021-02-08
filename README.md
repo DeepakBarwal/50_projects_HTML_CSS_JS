@@ -69,3 +69,5 @@
 34. Animation Countdown -> [Live Demo](https://kind-panini-6d8a9e.netlify.app/)
 
 35. Image Carousel -> [Live Demo](https://cranky-turing-c1e9bd.netlify.app/)
+
+36. Hoverboard -> [Live Demo](https://reverent-sammet-13e4ff.netlify.app/)
