@@ -71,3 +71,5 @@
 35. Image Carousel -> [Live Demo](https://cranky-turing-c1e9bd.netlify.app/)
 
 36. Hoverboard -> [Live Demo](https://reverent-sammet-13e4ff.netlify.app/)
+
+37. Pokedex -> [Live Demo](https://brave-clarke-a9c03b.netlify.app/)
