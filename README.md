@@ -75,3 +75,5 @@
 37. Pokedex -> [Live Demo](https://brave-clarke-a9c03b.netlify.app/)
 
 38. Mobile Tab Navigation -> [Live Demo](https://flamboyant-chandrasekhar-72331b.netlify.app/)
+
+39. Password Strength Background -> [Live Demo](https://dazzling-saha-6f6e5e.netlify.app/)
