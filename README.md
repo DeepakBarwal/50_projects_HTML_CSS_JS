@@ -79,3 +79,5 @@
 39. Password Strength Background -> [Live Demo](https://dazzling-saha-6f6e5e.netlify.app/)
 
 40. 3D Boxes Background -> [Live Demo](https://nervous-panini-ed3c14.netlify.app/)
+
+41. Verify Account UI -> [Live Demo](https://clever-lumiere-7cbf41.netlify.app/)
