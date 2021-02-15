@@ -83,3 +83,5 @@
 41. Verify Account UI -> [Live Demo](https://clever-lumiere-7cbf41.netlify.app/)
 
 42. Live User Filter -> [Live Demo](https://fervent-wright-9d1b93.netlify.app/)
+
+43. Feedback UI Design -> [Live Demo](https://jovial-fermat-32c8cc.netlify.app/)
