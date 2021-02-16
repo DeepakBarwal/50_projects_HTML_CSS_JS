@@ -85,3 +85,5 @@
 42. Live User Filter -> [Live Demo](https://fervent-wright-9d1b93.netlify.app/)
 
 43. Feedback UI Design -> [Live Demo](https://jovial-fermat-32c8cc.netlify.app/)
+
+44. Custom Range Slider -> [Live Demo](https://silly-lamport-4aff37.netlify.app/)
