@@ -87,3 +87,5 @@
 43. Feedback UI Design -> [Live Demo](https://jovial-fermat-32c8cc.netlify.app/)
 
 44. Custom Range Slider -> [Live Demo](https://silly-lamport-4aff37.netlify.app/)
+
+45. Netflix Mobile Navigation -> [Live Demo](https://vibrant-chandrasekhar-1e89ca.netlify.app/)
