@@ -89,3 +89,5 @@
 44. Custom Range Slider -> [Live Demo](https://silly-lamport-4aff37.netlify.app/)
 
 45. Netflix Mobile Navigation -> [Live Demo](https://vibrant-chandrasekhar-1e89ca.netlify.app/)
+
+46. Quiz App -> [Live Demo](https://eager-tereshkova-284c91.netlify.app/)
